@@ -28,6 +28,3 @@ TaskControlAPI is a fast, scalable, and easy-to-use task management API built wi
 2. Run the application:
    ```bash
    python3 main.py
-
-
-
